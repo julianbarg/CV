@@ -44,7 +44,7 @@ Advisors: Dr. Mark J. Zbaracki, Dr. A. Wren Montgomery                      <br>
 
 ::: {custom-style="Bibliography"}
 
-Montgomery, A.W., Lyon, T.P. & Barg, J. (2023) No End in Sight? A Greenwashing Review and Research Agenda. *Proposal for special review issue accepted in competitive peer-reviewed process.* Full paper submitted Oct. 2022 and awaiting reviewer comments for revision at *Organization & Environment*
+Montgomery, A.W., Lyon, T.P. & Barg, J. (2023) No End in Sight? A Greenwashing Review and Research Agenda. *Revise and Accept* at *Organization & Environment*.
 
 :::
 
