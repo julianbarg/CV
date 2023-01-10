@@ -54,7 +54,7 @@ Montgomery, A.W., Lyon, T.P. & Barg, J. (2023) No End in Sight? A Greenwashing R
 
 ::: {custom-style="Bibliography"}
 
-Barg, J., & Zbaracki, M. J. (2022). Please Leave the Elephant Outside. Climate Change and the Discourse on Keystone XL.
+Barg, J., & Zbaracki, M. J. (2022). Enforcing silence. Climate Change and the Discourse on Keystone XL
 
 :::
 
@@ -84,6 +84,8 @@ Huang, H., Sheng, C., & Barg, J. (2017). Advocacy Coalitions of Green Economy an
 
 ---
 
+* Barg, J., & Zbaracki, M. J. (2022). Enforcing silence. Climate Change and the Discourse on Keystone XL. *Under review at EGOS 2023 in*
+* Barg, J., Montgomery, A.W., & Lyon, T.P. (2023) No End in Sight? A Greenwashing Review and Research Agenda. *Under review at AOM 2023 in Boston, MA*
 * Barg, J. & Zbaracki, M. J. (2022, Oct 25). How do we talk about this? The Discourse on the Environmental Impacts of Keystone XL. Presented virtually at University of Helsinki.
 * Barg, J. & Zbaracki, M. J. (2022, Oct 19). How do we talk about this? The Discourse on the Environmental Impacts of Keystone XL. Presented at the Ivey PhD Research Series, Ivey Business School.
 * Barg, J. & Zbaracki, M. J. (2022, Jul 8). Knowledge, Power, and Deinstitutionalization. The Battle over Keystone XL. Presented at the 38th EGOS Colloquium, Vienna.
