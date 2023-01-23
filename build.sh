@@ -10,3 +10,8 @@ pandoc cv.md -f markdown+emoji+multiline_tables \
 --reference-doc ./cv_word_template.docx -o ./CV.docx \
   && lowriter --headless --convert-to pdf ./CV.docx\
   && xdg-open ./CV.pdf
+
+# pandoc courses.md -f markdown+emoji+multiline_tables \
+# --reference-doc ./cv_word_template.docx -o ./courses.docx \
+#   && lowriter --headless --convert-to pdf ./courses.docx\
+#   && xdg-open ./courses.pdf
