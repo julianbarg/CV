@@ -27,15 +27,22 @@ Advisors: Dr. Mark J. Zbaracki, Dr. A. Wren Montgomery                      <br>
 
 <br>                                                                        <br>
 
-**Master of Management Science**											2017
+**Master of Management Science**											                      2017
 
-*Peking University HSBC Business School*								   China
+*Peking University HSBC Business School*								                   China
+
+Thesis: The Impact of Greening Supply Chains on Corporate                   <br>
+Social Responsibility Efforts
 
 <br>                                                                        <br>
 
-**B.A. Chinese Studies/East Asian Studies**									2014
+**B.A. Chinese Studies/East Asian Studies**									                2014
 
-*Free University of Berlin*												 Germany
+*Free University of Berlin*												                       Germany
+
+Thesis: Environmental Policy in China. An Area of Tension                   <br>
+Between the National and Local Level
+
 --------------------------------------------------------------------------------
 
 # Papers under review
@@ -79,6 +86,7 @@ Huang, H., Sheng, C., & Barg, J. (2017). Advocacy Coalitions of Green Economy an
 * Chisholm Graduate Scholarship in Sustainability, 2020
 	- $15,000 annually for three years, awarded once every three years
 * 2018 AoM Annual Meeting--ONE Division Best Reviewer Award
+* DAAD/CSC Scholarship for studying at Peking University, 2015-2017
 
 # Presentations & conference participation
 
@@ -101,6 +109,8 @@ Huang, H., Sheng, C., & Barg, J. (2017). Advocacy Coalitions of Green Economy an
 
 * 2022-2025
 	- AOM ONE division--member of the Membership/Nominations Team
+* 2015-2017
+  - Vice President of International Cooperation, Peking University Center for Green Economy. Co-organized six international conferences.
 
 # Teaching
 
