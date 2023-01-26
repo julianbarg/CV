@@ -116,6 +116,7 @@ Huang, H., Sheng, C., & Barg, J. (2017). Advocacy Coalitions of Green Economy an
 
 ---
 
+* Participated in teaching prep and TA'd course *Power and Politics* with Dr. Mark Zbaracki at Ivey Business School, in 2022 and 2023.
 * Gualandris, J., & Barg, J. (2020). Huawei: Struggling to Develop a More Sustainable Supply Network (p. 21) [Teaching case]. Retrieved from <https://www.iveypublishing.ca/s/product/huawei-struggling-to-develop-a-more-sustainable-supply-network/01t5c00000CwpQE>
 * Shadowed teaching prep and TA'd course *Competing in and with China* with Dr. Klaus Meyer at Ivey Business School, 2018
 * CaseMate for *Globally Responsible Leadership: Managing According to the UN Global Compact*. Created in Spring 2018 with Dr. Paul Beamish
