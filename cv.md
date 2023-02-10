@@ -21,7 +21,7 @@ Julian Barg
 
 *Ivey Business School*                                                    Canada
 
-Thesis: Knowledge, Power, and disinformation                                <br>
+Thesis: Enforcing Silence                                                   <br>
 
 Advisors: Dr. Mark J. Zbaracki, Dr. A. Wren Montgomery                      <br>
 
@@ -61,7 +61,7 @@ Montgomery, A.W., Lyon, T.P. & Barg, J. (2023) No End in Sight? A Greenwashing R
 
 ::: {custom-style="Bibliography"}
 
-Barg, J., & Zbaracki, M. J. (2022). Enforcing silence. Climate Change and the Discourse on Keystone XL
+Barg, J., & Zbaracki, M. J. (2023). Enforcing silence. Climate Change and the Discourse on Keystone XL. Finishing touches for submission to *Academy of Management Journal*
 
 :::
 
@@ -116,7 +116,8 @@ Huang, H., Sheng, C., & Barg, J. (2017). Advocacy Coalitions of Green Economy an
 
 ---
 
-* Participated in teaching prep and TA'd course *Power and Politics* with Dr. Mark Zbaracki at Ivey Business School, in 2022 and 2023.
+* *All About Greenwashing* Workshop at Ivey Social Impact Club with Dr. A. Wren Montgomery and Thomas P. Lyon, 2023. 
+* Participated in teaching prep and TA'd course *Power and Politics* with Dr. Mark Zbaracki at Ivey Business School, in 2022 and 2023
 * Gualandris, J., & Barg, J. (2020). Huawei: Struggling to Develop a More Sustainable Supply Network (p. 21) [Teaching case]. Retrieved from <https://www.iveypublishing.ca/s/product/huawei-struggling-to-develop-a-more-sustainable-supply-network/01t5c00000CwpQE>
 * Shadowed teaching prep and TA'd course *Competing in and with China* with Dr. Klaus Meyer at Ivey Business School, 2018
 * CaseMate for *Globally Responsible Leadership: Managing According to the UN Global Compact*. Created in Spring 2018 with Dr. Paul Beamish
@@ -193,40 +194,51 @@ Huang, H., Sheng, C., & Barg, J. (2017). Advocacy Coalitions of Green Economy an
 
 ---
 
---------------------------------------------------------- ----------------------
-**Dr. Mark J. Zbaracki**									   			    <br>
+---------------------------------------------------------  ----------------------
+**Dr. Mark J. Zbaracki**									   			         <br>
 
-Associate Professor, General Management & Strategy             +1 (519) 661-4270
+Associate Professor, General Management & Strategy         +1 (519) 661-4270
 
-Ivey Business School 										   mzbaracki@ivey.ca
-
-Western University
-
-1255 Western Road, London ON N6G 0N1, Canada
-
-<br>																	    <br>
-
-**Dr. A. Wren Montgomery** 									
-
-Assistant Professor, Sustainability & General Management       +1 (519) 850-3569
-
-Ivey Business School                                         wmontgomery@ivey.ca
+Ivey Business School 										                   mzbaracki@ivey.ca
 
 Western University
 
 1255 Western Road, London ON N6G 0N1, Canada
 
-<br>															            <br>
+<br>																	                     <br>
 
-**Dr. Lee Watkiss**
+**Dr. A. Wren Montgomery** 					                       <br>				
 
-Assistant Professor, General Management & Strategy		       +1 (519) 661-2022
+Assistant Professor, Sustainability & General Management   +1 (519) 850-3569
 
-Ivey Business School											lwatkiss@ivey.ca
+Ivey Business School                                       wmontgomery@ivey.ca
 
-Western University
+Western University                                         <br>
 
-1255 Western Road, London ON N6G 0N1, Canada
+1255 Western Road, London ON N6G 0N1, Canada               <br>
+
+<br>                                                       <br>
+
+**Dr. Thomas P. Lyon**                                     <br>
+
+Dow Professor of Sustainable Science, Technology and       +1 (734) 615-1639
+Commerce
+
+Erb Institute/Michigan Ross                                tplyon@umich.edu                                         
+
+701 Tappan St., Ann Arbor, MI 48109, United States         <br> 
+
+<br>															                         <br>
+
+**Dr. Lee Watkiss**                                        <br>
+
+Assistant Professor, General Management & Strategy		     +1 (519) 661-2022
+
+Ivey Business School											                 lwatkiss@ivey.ca
+
+Western University                                         <br>
+
+1255 Western Road, London ON N6G 0N1, Canada               <br>
 --------------------------------------------------------------------------------
 
 <!-- # PhD courses taken
