@@ -92,8 +92,8 @@ Huang, H., Sheng, C., & Barg, J. (2017). Advocacy Coalitions of Green Economy an
 
 ---
 
-* Barg, J., & Zbaracki, M. J. (2022). Enforcing silence. Climate Change and the Discourse on Keystone XL. *Under review at EGOS 2023 in*
-* Barg, J., Montgomery, A.W., & Lyon, T.P. (2023) No End in Sight? A Greenwashing Review and Research Agenda. *Under review at AOM 2023 in Boston, MA*
+* Barg, J., Montgomery, A.W., & Lyon, T.P. (2023) No End in Sight? A Greenwashing Review and Research Agenda. *Under review at AOM 2023 in Boston, MA*.
+* Barg, J., & Zbaracki, M. J. (2023). Enforcing silence. Climate Change and the Discourse on Keystone XL. *Accepted for EGOS Colloquium in Cagliari, SWG 12.*
 * Barg, J. & Zbaracki, M. J. (2022, Oct 25). How do we talk about this? The Discourse on the Environmental Impacts of Keystone XL. Presented virtually at University of Helsinki.
 * Barg, J. & Zbaracki, M. J. (2022, Oct 19). How do we talk about this? The Discourse on the Environmental Impacts of Keystone XL. Presented at the Ivey PhD Research Series, Ivey Business School.
 * Barg, J. & Zbaracki, M. J. (2022, Jul 8). Knowledge, Power, and Deinstitutionalization. The Battle over Keystone XL. Presented at the 38th EGOS Colloquium, Vienna.
@@ -116,7 +116,8 @@ Huang, H., Sheng, C., & Barg, J. (2017). Advocacy Coalitions of Green Economy an
 
 ---
 
-* *All About Greenwashing* Workshop at Ivey Social Impact Club with Dr. A. Wren Montgomery and Thomas P. Lyon, 2023. 
+* *Business & Society --- Net Zero* at Ivey Business School with Dr. A. Wren Montgomery (upcoming).
+* *All About Greenwashing* Workshop at Ivey Social Impact Club with Dr. A. Wren Montgomery and Dr. Thomas P. Lyon, 2023. 
 * Participated in teaching prep and TA'd course *Power and Politics* with Dr. Mark Zbaracki at Ivey Business School, in 2022 and 2023
 * Gualandris, J., & Barg, J. (2020). Huawei: Struggling to Develop a More Sustainable Supply Network (p. 21) [Teaching case]. Retrieved from <https://www.iveypublishing.ca/s/product/huawei-struggling-to-develop-a-more-sustainable-supply-network/01t5c00000CwpQE>
 * Shadowed teaching prep and TA'd course *Competing in and with China* with Dr. Klaus Meyer at Ivey Business School, 2018
