@@ -114,14 +114,14 @@ Huang, H., Sheng, C., & Barg, J. (2017). Advocacy Coalitions of Green Economy an
 * Barg, J. (2020, Feb 14). Oil Spills and Organizational Learning. Presented at the Ivey PhD Research Series, Ivey Business School.
 * Barg, J. (2016, Aug 2). The Trends of Corporate Social Responsibility in China. Presented at the 3rd International Conference on CSR, Sustainability, Ethics and Governance, Cologne.
 
-# Service
+<!-- # Service
 
 ---
 
 * 2022-2025
 	- AOM ONE division--member of the Membership/Nominations Team
 * 2015-2017
-  - Vice President of International Cooperation, Peking University Center for Green Economy. Co-organized six international conferences.
+  - Vice President of International Cooperation, Peking University Center for Green Economy. Co-organized six international conferences. -->
 
 # Teaching
 
