@@ -79,6 +79,17 @@ Huang, H., Sheng, C., & Barg, J. (2017). Advocacy Coalitions of Green Economy an
 
 :::
 
+# Professional experience
+
+---
+
+* Peking University HSBC Business School Center for Green Economy (2015--2017)
+	- Conducting research in collaboration with Chinese and international scholars
+* Ecological Development Union International (2016-2017)
+	- Vice Secretary General for international collaboratin
+	- Co-facilitated three international forums
+	- Coordination with international partners, assisted with visa applications for China
+
 # Awards & Scholarships
 
 ---
