@@ -11,6 +11,14 @@ Julian Barg
 
 +1 (226) 984-1461--<jbarg.phd@ivey.ca>
 :::
+\
+
+<!-- Innerhalb dieses wissenschaftstheoretischen Selbstverständnisses bleibt aber den Soziologen allenfalls der Spielraum seiner Doppelrolle als Wissenschaftler und Staatsbürger: er kann die Aufgaben, die er soziologisch bearbeiten möchte, nach Gesichtspunkten politischer Relevanz auswählen, aber auf die wissenschaftliche Arbeit selbst kann dann eine solche staatsbürgerliche Vorentscheidung keinen Einfluß haben. --> 
+
+> *Within this [empiric-theoretical] epistemological self-conception the sociologist has at most the leeway of his double role as scientist and citizen: he can select the tasks he wants to work on sociologically according to aspects of political relevance, but on the scientific work itself such a civic preliminary decision can then have no influence.*
+>
+> ---Habermas in Theory and Practice (1971)
+ 
 
 # Education
 
@@ -45,15 +53,13 @@ Between the National and Local Level
 
 --------------------------------------------------------------------------------
 
-# Papers under review
+<!-- # Papers under review
 
 ---
 
 ::: {custom-style="Bibliography"}
 
-Montgomery, A.W., Lyon, T.P. & Barg, J. (2023) No End in Sight? A Greenwashing Review and Research Agenda. *Revise and Accept* at *Organization & Environment*.
-
-:::
+::: -->
 
 # Papers in progress
 
@@ -70,6 +76,8 @@ Barg, J., & Zbaracki, M. J. (2023). Enforcing silence. Climate Change and the Di
 ---
 
 ::: {custom-style="Bibliography"}
+
+Montgomery, A.W., Lyon, T.P. & Barg, J. (forthcoming) No End in Sight? A Greenwashing Review and Research Agenda. *Accepted for publication* at *Organization & Environment*.
 
 Zbaracki, M. J., Watkiss, L., McAlpine, C., & Barg, J. (2021). Truth, Beauty, and Justice in Models of Social Action. In C. M. Beckman (Ed.), *Research in the Sociology of Organizations* (pp. 159–177). Bingley: Emerald Publishing Limited. <https://doi.org/10.1108/S0733-558X20210000076007>\
 
