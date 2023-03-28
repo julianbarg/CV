@@ -25,7 +25,7 @@ Julian Barg
 ---
 
 ---------------------------------------------------------- ---------------------
-**PhD Business Administration--Sustainability**                    expected 2023
+**PhD Business Administration -- Sustainability**                    expected 2023
 
 *Ivey Business School*                                                    Canada
 
@@ -77,7 +77,7 @@ Barg, J., & Zbaracki, M. J. (2023). Enforcing silence. Climate Change and the Di
 
 ::: {custom-style="Bibliography"}
 
-Montgomery, A.W., Lyon, T.P. & Barg, J. (forthcoming) No End in Sight? A Greenwashing Review and Research Agenda. *Accepted for publication* at *Organization & Environment*.
+Montgomery, A.W., Lyon, T.P. & Barg, J. (forthcoming) No End in Sight? A Greenwashing Review and Research Agenda.  *Organization & Environment*.\
 
 Zbaracki, M. J., Watkiss, L., McAlpine, C., & Barg, J. (2021). Truth, Beauty, and Justice in Models of Social Action. In C. M. Beckman (Ed.), *Research in the Sociology of Organizations* (pp. 159–177). Bingley: Emerald Publishing Limited. <https://doi.org/10.1108/S0733-558X20210000076007>\
 
@@ -122,20 +122,20 @@ Huang, H., Sheng, C., & Barg, J. (2017). Advocacy Coalitions of Green Economy an
 * Barg, J. (2020, Feb 14). Oil Spills and Organizational Learning. Presented at the Ivey PhD Research Series, Ivey Business School.
 * Barg, J. (2016, Aug 2). The Trends of Corporate Social Responsibility in China. Presented at the 3rd International Conference on CSR, Sustainability, Ethics and Governance, Cologne.
 
-<!-- # Service
+# Service
 
 ---
 
 * 2022-2025
-	- AOM ONE division--member of the Membership/Nominations Team
+	- AOM ONE division -- member of the Membership/Nominations Team
 * 2015-2017
-  - Vice President of International Cooperation, Peking University Center for Green Economy. Co-organized six international conferences. -->
+  - Vice President of International Cooperation, Peking University Center for Green Economy. Co-organized six international conferences and participated in NGO consultation for COP 21 in Paris.
 
 # Teaching
 
 ---
 
-* *Business & Society --- Net Zero* at Ivey Business School with Dr. A. Wren Montgomery (upcoming).
+* *Business & Society -- Net Zero* at Ivey Business School with Dr. A. Wren Montgomery (upcoming).
 * *All About Greenwashing* Workshop at Ivey Social Impact Club with Dr. A. Wren Montgomery and Dr. Thomas P. Lyon, 2023. 
 * Participated in teaching prep and TA'd course *Power and Politics* with Dr. Mark Zbaracki at Ivey Business School, in 2022 and 2023
 * Gualandris, J., & Barg, J. (2020). Huawei: Struggling to Develop a More Sustainable Supply Network (p. 21) [Teaching case]. Retrieved from <https://www.iveypublishing.ca/s/product/huawei-struggling-to-develop-a-more-sustainable-supply-network/01t5c00000CwpQE>
