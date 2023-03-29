@@ -9,7 +9,7 @@
 pandoc cv.md -f markdown+emoji+multiline_tables \
 --reference-doc ./cv_word_template.docx -o ./CV.docx \
   && lowriter --headless --convert-to pdf ./CV.docx\
-  && xdg-open ./CV.pdf
+  && okular ./CV.pdf > /dev/null 2>&1 & 
 
 # pandoc courses.md -f markdown+emoji+multiline_tables \
 # --reference-doc ./cv_word_template.docx -o ./courses.docx \
