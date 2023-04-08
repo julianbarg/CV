@@ -189,9 +189,7 @@ Huang, H., Sheng, C., & Barg, J. (2017). Advocacy Coalitions of Green Economy an
 --------------------------------------------------------------------------------
 
 * On SSHRC Insight Development Grand, $49,305 awarded June 2018
-
 * With Thomas Lyon of Erb Institute, University of Michigan
-
 * Collected data on all applicable sustainability and organic certifications and assembled the data to allow for comparison of standards' stringency\
 
 
@@ -203,9 +201,7 @@ Huang, H., Sheng, C., & Barg, J. (2017). Advocacy Coalitions of Green Economy an
 --------------------------------------------------------------------------------
 
 * On SSHRC Insight Development Grant, $49,305 awarded June 2016
-
 * With Thomas Lyon of Erb Institute, University of Michigan
-
 * Scraped address and other info on (almost) all Californian wineries & vineyard from varioud websites and assembled them into an interactive dashboard
 
 * <https://www.jbarg.net/organic_vineyards>
@@ -229,7 +225,7 @@ Western University
 
 **Dr. A. Wren Montgomery** 					                       <br>				
 
-Assistant Professor, Sustainability & General Management   +1 (519) 850-3569
+Associate Professor, Sustainability & General Management   +1 (519) 850-3569
 
 Ivey Business School                                       wmontgomery@ivey.ca
 
