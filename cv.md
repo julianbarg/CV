@@ -9,27 +9,35 @@ Julian Barg
 
 *London, ON N6B 1J4*
 
-+1 (226) 984-1461--<jbarg.phd@ivey.ca>
++1 (226) 984-1461 -- <jbarg.phd@ivey.ca>
 :::
 \
 
+<!-- * Todo:
+  - Create header
+  - Add emails
+  - put references in columns? -->
+
 <!-- Innerhalb dieses wissenschaftstheoretischen Selbstverständnisses bleibt aber den Soziologen allenfalls der Spielraum seiner Doppelrolle als Wissenschaftler und Staatsbürger: er kann die Aufgaben, die er soziologisch bearbeiten möchte, nach Gesichtspunkten politischer Relevanz auswählen, aber auf die wissenschaftliche Arbeit selbst kann dann eine solche staatsbürgerliche Vorentscheidung keinen Einfluß haben. --> 
 
-> *Within this [empiric-theoretical] epistemological self-conception the sociologist has at most the leeway of his double role as scientist and citizen: he can select the tasks he wants to work on sociologically according to aspects of political relevance, but on the scientific work itself such a civic preliminary decision can then have no influence.*
->
-> ---Habermas in Theory and Practice (1971)
- 
+> *[T]he sociologist has at most the leeway of his double role as scientist and citizen: He can select the tasks he wants to work on sociologically according to aspects of political relevance, but on the scientific work itself such a civic preliminary decision can then have no influence.*
+
+::: {custom-style="Attribution"}
+---Habermas in Theory and Practice (1971)
+::: 
 
 # Education
 
 ---
 
 ---------------------------------------------------------- ---------------------
-**PhD Business Administration -- Sustainability**                    expected 2023
+**PhD Business Administration -- Sustainability**                  expected 2023
 
 *Ivey Business School*                                                    Canada
 
-Thesis: Enforcing Silence                                                   <br>
+Thesis: All Quiet on the Midwestern Front.                                  <br>
+Discourse on Keystone XL and Its Climate Change 
+Implications
 
 Advisors: Dr. Mark J. Zbaracki, Dr. A. Wren Montgomery                      <br>
 
@@ -77,7 +85,7 @@ Barg, J., & Zbaracki, M. J. (2023). Enforcing silence. Climate Change and the Di
 
 ::: {custom-style="Bibliography"}
 
-Montgomery, A.W., Lyon, T.P. & Barg, J. (forthcoming) No End in Sight? A Greenwashing Review and Research Agenda.  *Organization & Environment*.\
+Montgomery, A. W., Lyon, T. P., & Barg, J. (2023). No End in Sight? A Greenwash Review and Research Agenda. *Organization & Environment*, 36. <https://doi.org/10.1177/10860266231168905>\
 
 Zbaracki, M. J., Watkiss, L., McAlpine, C., & Barg, J. (2021). Truth, Beauty, and Justice in Models of Social Action. In C. M. Beckman (Ed.), *Research in the Sociology of Organizations* (pp. 159–177). Bingley: Emerald Publishing Limited. <https://doi.org/10.1108/S0733-558X20210000076007>\
 
@@ -93,7 +101,7 @@ Huang, H., Sheng, C., & Barg, J. (2017). Advocacy Coalitions of Green Economy an
 
 * Peking University HSBC Business School Center for Green Economy (2015--2017)
 	- Conducting research in collaboration with Chinese and international scholars
-* Ecological Development Union International (2016-2017)
+* Ecological Development Union International (2016--2017)
 	- Vice Secretary General for international collaboratin
 	- Co-facilitated three international forums
 	- Coordination with international partners, assisted with visa applications for China
@@ -111,8 +119,8 @@ Huang, H., Sheng, C., & Barg, J. (2017). Advocacy Coalitions of Green Economy an
 
 ---
 
-* Barg, J., Montgomery, A.W., & Lyon, T.P. (2023) No End in Sight? A Greenwashing Review and Research Agenda. *Under review at AOM 2023 in Boston, MA*.
-* Barg, J., & Zbaracki, M. J. (2023). Enforcing silence. Climate Change and the Discourse on Keystone XL. *Accepted for EGOS Colloquium in Cagliari, SWG 12.*
+* Barg, J., Montgomery, A.W., & Lyon, T.P. (2023) No End in Sight? A Greenwashing Review and Research Agenda. *Accepted for AOM 2023 in Boston, MA*.
+* Barg, J., & Zbaracki, M. J. (2023). Text Data is Always Biased. *Accepted for EGOS Colloquium in Cagliari, SWG 12.*
 * Barg, J. & Zbaracki, M. J. (2022, Oct 25). How do we talk about this? The Discourse on the Environmental Impacts of Keystone XL. Presented virtually at University of Helsinki.
 * Barg, J. & Zbaracki, M. J. (2022, Oct 19). How do we talk about this? The Discourse on the Environmental Impacts of Keystone XL. Presented at the Ivey PhD Research Series, Ivey Business School.
 * Barg, J. & Zbaracki, M. J. (2022, Jul 8). Knowledge, Power, and Deinstitutionalization. The Battle over Keystone XL. Presented at the 38th EGOS Colloquium, Vienna.
