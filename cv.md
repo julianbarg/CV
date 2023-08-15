@@ -119,16 +119,17 @@ Huang, H., Sheng, C., & Barg, J. (2017). Advocacy Coalitions of Green Economy an
 
 ---
 
-* Barg, J., Montgomery, A.W., & Lyon, T.P. (2023) No End in Sight? A Greenwashing Review and Research Agenda. *Accepted for AOM 2023 in Boston, MA*.
-* Barg, J., & Zbaracki, M. J. (2023). Text Data is Always Biased. *Accepted for EGOS Colloquium in Cagliari, SWG 12.*
+* Barg, J., Montgomery, A. W., & Lyon, T. P. (2023, Aug 7) Greenwash. Presented at the *American Chemical Society Fall 2023* conference.
+* Barg, J., Montgomery, A. W., & Lyon, T. P. (2023, Aug 7) No End in Sight? A Greenwashing Review and Research Agenda. Presented at the *83rd Annual Meeting of the Academy of Management* in Boston, MA: <https://journals.aom.org/doi/abs/10.5465/AMPROC.2023.10410abstract>
+* Barg, J., & Zbaracki, M. J. (2023, Jul 6). Text Data is Always Biased. Presented at the 38th *European Group of Organizational Studies Colloquium*, Cagliari, SWG 12.
 * Barg, J. & Zbaracki, M. J. (2022, Oct 25). How do we talk about this? The Discourse on the Environmental Impacts of Keystone XL. Presented virtually at University of Helsinki.
-* Barg, J. & Zbaracki, M. J. (2022, Oct 19). How do we talk about this? The Discourse on the Environmental Impacts of Keystone XL. Presented at the Ivey PhD Research Series, Ivey Business School.
-* Barg, J. & Zbaracki, M. J. (2022, Jul 8). Knowledge, Power, and Deinstitutionalization. The Battle over Keystone XL. Presented at the 38th EGOS Colloquium, Vienna.
-* OMT Doctoral Student Consortium on Aug 4, 2021 at the 81st Annual Meeting of the Academy of Managements, virtual.
-* Barg, J. (2021, Mar 2). Learning to Be Sustainable (?). Presented at the Ivey PhD Research Series, Ivey Business School.
-* Barg, J. (2020). A Few Spills a Year, That’s Normal? Learning in the Pipeline Industry. AOM ONE Doctoral Consortium. Presented at the 80th Annual Meeting of the Academy of Management, virtual.
-* Barg, J. (2020, Feb 14). Oil Spills and Organizational Learning. Presented at the Ivey PhD Research Series, Ivey Business School.
-* Barg, J. (2016, Aug 2). The Trends of Corporate Social Responsibility in China. Presented at the 3rd International Conference on CSR, Sustainability, Ethics and Governance, Cologne.
+* Barg, J. & Zbaracki, M. J. (2022, Oct 19). How do we talk about this? The Discourse on the Environmental Impacts of Keystone XL. Presented at the *Ivey PhD Research Series*, Ivey Business School.
+* Barg, J. & Zbaracki, M. J. (2022, Jul 8). Knowledge, Power, and Deinstitutionalization. The Battle over Keystone XL. Presented at the 38th *European Group of Organizational Studies Colloquium*, Vienna.
+* OMT Doctoral Student Consortium on Aug 4, 2021 at the *81st Annual Meeting of the Academy of Managements*, virtual.
+* Barg, J. (2021, Mar 2). Learning to Be Sustainable (?). Presented at the *Ivey PhD Research Series*, Ivey Business School.
+* Barg, J. (2020). A Few Spills a Year, That’s Normal? Learning in the Pipeline Industry. AOM ONE Doctoral Consortium. Presented at the *80th Annual Meeting of the Academy of Management*, virtual.
+* Barg, J. (2020, Feb 14). Oil Spills and Organizational Learning. Presented at the *Ivey PhD Research Series*, Ivey Business School.
+* Barg, J. (2016, Aug 2). The Trends of Corporate Social Responsibility in China. Presented at the *3rd International Conference on CSR, Sustainability, Ethics and Governance*, Cologne.
 
 # Service
 
