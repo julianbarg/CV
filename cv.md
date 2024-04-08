@@ -1,15 +1,17 @@
 :::{custom-style="Title"}
-Julian Barg
+Dr. Julian Barg
 :::
 
 ::: {custom-style="Author"}
-*Ivey Business School*
+*University of Miami*
 
-*1255 Western Road*
+*Rosenstiel School of Marine, Atmospheric, and Earth Science*
 
-*London, ON N6B 1J4*
+*4600 Rickenbacker Cswy*
 
-+1 (226) 984-1461 -- <jbarg.phd@ivey.ca>
+*Key Biscayne, FL 33149*
+
++1 (561) 938-4189 -- <jbarg@miami.edu>
 :::
 \
 
@@ -31,7 +33,7 @@ Julian Barg
 ---
 
 ---------------------------------------------------------- ---------------------
-**PhD Business Administration -- Sustainability**                  expected 2023
+**PhD Business Administration -- Sustainability**                  					2023
 
 *Ivey Business School*                                                    Canada
 
@@ -75,7 +77,7 @@ Between the National and Local Level
 
 ::: {custom-style="Bibliography"}
 
-Barg, J., & Zbaracki, M. J. (2023). Enforcing silence. Climate Change and the Discourse on Keystone XL. Finishing touches for submission to *Academy of Management Journal*
+Barg, J., & Zbaracki, M. J. (2024). Just Don't Say Climate Change. Discourse on Keystone XL. Finishing touches for submission to *Administrative Science Quarterly*
 
 :::
 
@@ -95,7 +97,16 @@ Huang, H., Sheng, C., & Barg, J. (2017). Advocacy Coalitions of Green Economy an
 
 :::
 
-# Professional experience
+# Reports and media coverage
+
+---
+
+* Montgomery, W., Lyon, T., Barg, J., & Lynch, M. (2024). Greenwashing 3.0: Why addressing greenwashing remains as important as ever (and what can be done about it). *Ivey Center for Building Sustainable Value & Erb Institute*. https://online.flippingbook.com/view/175998623/
+* Rana, A. (2023, October 30). Western prof looks at “greenwashing” and how to spot it. *CBC News*. https://www.cbc.ca/news/canada/london/eco-friendly-products-may-not-recycle-as-advertised-experts-say-1.7008093
+* Atkin, E., & Samuelson, A. (2021). Kim K’s new nipple bra ad is greenwashing. Heated. https://heated.world/p/kim-theres-people-that-are-dying
+
+
+<!-- # Professional experience
 
 ---
 
@@ -104,7 +115,7 @@ Huang, H., Sheng, C., & Barg, J. (2017). Advocacy Coalitions of Green Economy an
 * Ecological Development Union International (2016--2017)
 	- Vice Secretary General for international collaboratin
 	- Co-facilitated three international forums
-	- Coordination with international partners, assisted with visa applications for China
+	- Coordination with international partners, assisted with visa applications for China -->
 
 # Awards & Scholarships
 
@@ -215,7 +226,7 @@ Huang, H., Sheng, C., & Barg, J. (2017). Advocacy Coalitions of Green Economy an
 
 * <https://www.jbarg.net/organic_vineyards>
 
-# References
+<!-- # References
 
 ---
 
@@ -264,7 +275,7 @@ Ivey Business School											                 lwatkiss@ivey.ca
 Western University                                         <br>
 
 1255 Western Road, London ON N6G 0N1, Canada               <br>
---------------------------------------------------------------------------------
+-------------------------------------------------------------------------------- -->
 
 <!-- # PhD courses taken
 
