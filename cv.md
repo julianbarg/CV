@@ -33,9 +33,9 @@ Dr. Julian Barg
 ---
 
 ---------------------------------------------------------- ---------------------
-**PhD Business Administration -- Sustainability**                  					2023
+**PhD -- Sustainability**												                  					2023
 
-*Ivey Business School*                                                    Canada
+*Western University*                                                    	Canada
 
 Thesis: All Quiet on the Midwestern Front.                                  <br>
 Discourse on Keystone XL and Its Climate Change 
@@ -45,22 +45,17 @@ Advisors: Dr. Mark J. Zbaracki, Dr. A. Wren Montgomery                      <br>
 
 <br>                                                                        <br>
 
-**Master of Management Science**											                      2017
+**Master's**											                      											2017
 
-*Peking University HSBC Business School*								                   China
-
-Thesis: The Impact of Greening Supply Chains on Corporate                   <br>
-Social Responsibility Efforts
+*Peking University*								                   											 China
 
 <br>                                                                        <br>
 
-**B.A. Chinese Studies/East Asian Studies**									                2014
+**Bachelor's**																								                2014
 
 *Free University of Berlin*												                       Germany
 
-Thesis: Environmental Policy in China. An Area of Tension                   <br>
-Between the National and Local Level
-
+<br>																											                  <br>
 --------------------------------------------------------------------------------
 
 <!-- # Papers under review
@@ -102,7 +97,7 @@ Huang, H., Sheng, C., & Barg, J. (2017). Advocacy Coalitions of Green Economy an
 ---
 
 * Montgomery, W., Lyon, T., Barg, J., & Lynch, M. (2024). Greenwashing 3.0: Why addressing greenwashing remains as important as ever (and what can be done about it). *Ivey Center for Building Sustainable Value & Erb Institute*. https://online.flippingbook.com/view/175998623/
-* Rana, A. (2023, October 30). Western prof looks at “greenwashing” and how to spot it. *CBC News*. https://www.cbc.ca/news/canada/london/eco-friendly-products-may-not-recycle-as-advertised-experts-say-1.7008093
+* Rana, A. (2023, October 30). Western prof looks at "greenwashing" and how to spot it. *CBC News*. https://www.cbc.ca/news/canada/london/eco-friendly-products-may-not-recycle-as-advertised-experts-say-1.7008093
 * Atkin, E., & Samuelson, A. (2021). Kim K’s new nipple bra ad is greenwashing. Heated. https://heated.world/p/kim-theres-people-that-are-dying
 
 
@@ -121,15 +116,18 @@ Huang, H., Sheng, C., & Barg, J. (2017). Advocacy Coalitions of Green Economy an
 
 ---
 
+* ONE-SIM Outreach Award
+	- Joint Award of Academy of Management divisions for paper "No End in Sight? A Greenwash Review and Research Agenda"
 * Chisholm Graduate Scholarship in Sustainability, 2020
 	- $15,000 annually for three years, awarded once every three years
-* 2018 AoM Annual Meeting--ONE Division Best Reviewer Award
+* 2018 AoM Annual Meeting---ONE Division Best Reviewer Award
 * DAAD/CSC Scholarship for studying at Peking University, 2015-2017
 
 # Presentations & conference participation
 
 ---
 
+* Barg, J., (2024, Aud 19) Climate Accountability. Presented at the *American Chemical Society Fall 2024* conference. 
 * Barg, J., Montgomery, A. W., & Lyon, T. P. (2023, Aug 7) Greenwash. Presented at the *American Chemical Society Fall 2023* conference.
 * Barg, J., Montgomery, A. W., & Lyon, T. P. (2023, Aug 7) No End in Sight? A Greenwashing Review and Research Agenda. Presented at the *83rd Annual Meeting of the Academy of Management* in Boston, MA: <https://journals.aom.org/doi/abs/10.5465/AMPROC.2023.10410abstract>
 * Barg, J., & Zbaracki, M. J. (2023, Jul 6). Text Data is Always Biased. Presented at the 38th *European Group of Organizational Studies Colloquium*, Cagliari, SWG 12.
@@ -167,21 +165,31 @@ Huang, H., Sheng, C., & Barg, J. (2017). Advocacy Coalitions of Green Economy an
 ---
 
 --------------------------------------------------------- ----------------------
-**Science, industry, and the public.** 								   Fall 2022
+**Redactions, omissions, and document dumping.**											 Fall 2024
+**A computational assessment of the oil industry’s obstruction of a Congressional investigation**
+
+*Dr. Alexander Kaurov, Dr. Julian Barg, Dr. Naomi Oreskes, Dr. Geoffrey Supran*
+--------------------------------------------------------------------------------
+
+* On CSSN Congressional Subpoena Documents Analysis grant, USD $20,000 awarded August 2024\
+
+
+
+--------------------------------------------------------- ----------------------
+**Science, industry, and the public.** 								   							 Fall 2022
 **The policy battle over fossil fuel infrastructure**
 
 *Dr. Mark J. Zbaracki, Dr. A. Wren Montgomery*
 --------------------------------------------------------------------------------
 
-* Will co-conduct field study in the US and Canada
-* On SSHRC Insight Development Grand, $70,857 awarded June 2022\
+* On SSHRC Insight Development Grant, CAD $70,857 awarded June 2022\
 
 
 
 --------------------------------------------------------- ----------------------
-**Greenwashing Gender in the Fortune 500**							   Fall 2020
+**Greenwashing Gender in the Fortune 500**							   						 Fall 2020
 
-*Dr. A. Wren Montgomery, Dr. Erin Oldford, *
+*Dr. A. Wren Montgomery, Dr. Erin Oldford*
 *Dr. Alyson E. Byrne*
 --------------------------------------------------------------------------------
 
@@ -190,7 +198,7 @@ Huang, H., Sheng, C., & Barg, J. (2017). Advocacy Coalitions of Green Economy an
 
 
 --------------------------------------------------------- ----------------------
-**Bridges Over Troubled Waters: **									   Fall 2019
+**Bridges Over Troubled Waters: **									   								 Fall 2019
 **Collective Community Action Around Water Resources **
 **in Post-Conflict Northern Ireland**
 
@@ -202,13 +210,13 @@ Huang, H., Sheng, C., & Barg, J. (2017). Advocacy Coalitions of Green Economy an
 
 
 --------------------------------------------------------- ----------------------
-**A Dynamic Model of Misleading Corporate **						 Summer 2019
+**A Dynamic Model of Misleading Corporate **						 						 Summer 2019
 **Environmental Communications**
 
 *Dr. A. Wren Montgomery*
 --------------------------------------------------------------------------------
 
-* On SSHRC Insight Development Grand, $49,305 awarded June 2018
+* On SSHRC Insight Development Grant, CAD $49,305 awarded June 2018
 * With Thomas Lyon of Erb Institute, University of Michigan
 * Collected data on all applicable sustainability and organic certifications and assembled the data to allow for comparison of standards' stringency\
 
@@ -220,7 +228,7 @@ Huang, H., Sheng, C., & Barg, J. (2017). Advocacy Coalitions of Green Economy an
 *Dr. Jennifer Robertson, Dr. A. Wren Montgomery*
 --------------------------------------------------------------------------------
 
-* On SSHRC Insight Development Grant, $49,305 awarded June 2016
+* On SSHRC Insight Development Grant, CAD $49,305 awarded June 2016
 * With Thomas Lyon of Erb Institute, University of Michigan
 * Scraped address and other info on (almost) all Californian wineries & vineyard from varioud websites and assembled them into an interactive dashboard
 
