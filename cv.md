@@ -3,6 +3,7 @@ Dr. Julian Barg
 :::
 
 ::: {custom-style="Author"}
+
 *University of Miami*
 
 *Rosenstiel School of Marine, Atmospheric, and Earth Science*
@@ -65,6 +66,12 @@ Advisors: Dr. Mark J. Zbaracki, Dr. A. Wren Montgomery                      <br>
 ::: {custom-style="Bibliography"}
 
 ::: -->
+
+# Academic Positions
+
+---
+
+* 2023-- Postdoc at Dr. Geoffrey Supran's Climate Accountability Lab, University of Miami
 
 # Papers in progress
 
