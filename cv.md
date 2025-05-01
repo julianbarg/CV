@@ -79,7 +79,7 @@ Advisors: Dr. Mark J. Zbaracki, Dr. A. Wren Montgomery                      <br>
 
 ::: {custom-style="Bibliography"}
 
-Barg, J., & Zbaracki, M. J. (2024). Just Don't Say Climate Change. Discourse on Keystone XL. Finishing touches for submission to *Administrative Science Quarterly*
+Barg, J., & Zbaracki, M. J. (2025). Just Don't Say Climate Change. Discourse on Keystone XL. Finishing touches for submission to *Administrative Science Quarterly*
 
 :::
 
@@ -123,6 +123,8 @@ Huang, H., Sheng, C., & Barg, J. (2017). Advocacy Coalitions of Green Economy an
 
 ---
 
+* Financial Times Academic research with impact 2025
+	- Highly commended paper
 * ONE-SIM Outreach Award
 	- Joint Award of Academy of Management divisions for paper "No End in Sight? A Greenwash Review and Research Agenda"
 * Chisholm Graduate Scholarship in Sustainability, 2020
@@ -167,15 +169,25 @@ Huang, H., Sheng, C., & Barg, J. (2017). Advocacy Coalitions of Green Economy an
 * Shadowed teaching prep and TA'd course *Competing in and with China* with Dr. Klaus Meyer at Ivey Business School, 2018
 * CaseMate for *Globally Responsible Leadership: Managing According to the UN Global Compact*. Created in Spring 2018 with Dr. Paul Beamish
 
+# Grants
+
+---
+
+* OpenAI Research Access Program grant
+	- For work on identifying climate disinformation
+	- $5,000 in API credits
+
 # Work on research grants
 
 ---
 
 --------------------------------------------------------- ----------------------
 **Redactions, omissions, and document dumping.**											 Fall 2024
-**A computational assessment of the oil industry’s obstruction of a Congressional investigation**
+**A computational assessment of the oil industry's**
+**obstruction of a Congressional investigation**
 
-*Dr. Alexander Kaurov, Dr. Julian Barg, Dr. Naomi Oreskes, Dr. Geoffrey Supran*
+*Dr. Alexander Kaurov, Dr. Julian Barg,* 
+*Dr. Naomi Oreskes, Dr. Geoffrey Supran*
 --------------------------------------------------------------------------------
 
 * On CSSN Congressional Subpoena Documents Analysis grant, USD $20,000 awarded August 2024\
